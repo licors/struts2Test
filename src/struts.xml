@@ -17,7 +17,7 @@
 		<action name="listAction" class="board.ListAction">
 			<result>/board/boardList.jsp</result>
 		</action>
-		
+		 
 		<action name="writeForm" class="board.WriteAction" method="form">
 			<result>/board/boardWrite.jsp</result>
 		</action>
